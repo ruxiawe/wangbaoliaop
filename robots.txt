@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ruxiawe.github.io/wangbaoliaop/sitemap.xml
